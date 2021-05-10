@@ -7,4 +7,4 @@ You can test-run the example on Google Colaboratory by clicking the following bu
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrtucar/EfficientNET_BrainMRI_Classification/blob/main/BrainMRIClassification.ipynb)
 
-![Model](Model.jpg)
+![Model](Model.png)
